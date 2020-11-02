@@ -1,2 +1,2 @@
 # Movielens-Capstone-Project
-Capsstone Project
+Capstone Project
